@@ -4,12 +4,21 @@
     box-sizing: border-box;
 }
 
-h1{
+h1 {
     color: #2E3135;
     font-size: 2.5rem;
     text-align: center;
     padding: 20px;
 }
 
+input {
+    padding: 3px;
+}
 
+.btn-search {
+    padding: 3px;
+}
+.btn-search:hover {
+    background-color: lightgray;
+}
 
